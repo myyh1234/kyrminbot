@@ -1,7 +1,7 @@
 import asyncio, discord
 from discord.ext import commands
 
-token = 'ODE3NDI3NTkyOTgxMjUwMDQ5.YEJWxQ.Qg4jdHjZtFRkUK23xzC89HVsfvA'
+token = '여기에 토큰 넣기'
 print('Token_key : ', token)
 
 game = discord.Game('>도움말')
